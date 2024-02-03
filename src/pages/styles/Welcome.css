@@ -1,0 +1,21 @@
+.bt{
+    margin-left: 3rem;
+    color: white;
+    
+    
+    
+}
+.bt2{
+    margin-left: 3rem;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+}
+.bt3{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: aqua; */
+    align-items: flex-end;
+    margin-left: 38rem;      
+}
