@@ -10,7 +10,7 @@ const Footer = () => {
         <footer className=' container  d-flex justify-content-between '>
             <div className='w-25'>
         <ul>
-        <h4 className=' text-white '>About Post <span className='text-primary'>it <span className='text-white'>.</span></span></h4>
+        <Link to="/" className='text-decoration-none'><h4 className='text-white '>About Post <span className='text-primary'>it <span className='text-white'>.</span></span></h4></Link>
         <li className='text-white list-unstyled pt-2'>Lorem ilisum dolor sit amet consectetur adiliisicing elit. Dolor cumque hic consequuntur veniam obcaecati, ut natus distinctio mollitia ullam iusto error unde similique lirovident ilisa.</li>
         </ul> </div>
 
@@ -30,7 +30,12 @@ const Footer = () => {
 
             <div className=''>
                 <h4 className='text-white '>Subscribe to our newsletter</h4>
-                <Button className='bg-white w-100 mt-3 ' style={{color:'darkgrey'}} >Email address</Button> <Link to="getstarted"><Button className='w-100 mt-3  border-primary'>Subscribe</Button></Link>
+                  <input 
+                  type="text"
+                  placeholder='Email Address' 
+                  className='bg-white w-100  mt-3 text-center'style={{color:"dark", border:"none",borderRadius:"0.3rem",height:"2.3rem", }}
+                  />
+                <Link to="getstarted"><Button className='w-100 mt-3  border-primary'>Subscribe</Button></Link>
             </div>
         </footer><hr className='text-white'/>
         <div className='pb-3'>

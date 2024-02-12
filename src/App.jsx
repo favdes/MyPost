@@ -14,6 +14,7 @@ import EditPost from './pages/EditPost'
 import { Toaster } from 'react-hot-toast'
 
 
+
 function App() {
 
   return (
@@ -31,6 +32,7 @@ function App() {
        </Route>
         <Route path='/getstarted' element={<GetStarted/>}/>
         <Route path='/signin' element={<SignIn/>}/>
+        <Route path='/footer' element={<Footer/>}/>
 
     </Routes>
     </BrowserRouter>

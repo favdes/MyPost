@@ -20,7 +20,7 @@ const NavBar = () => {
           <Link to="/stories" className="text-decoration-none text-dark">
             Stories
           </Link>
-          <Link to="/Footer" className="text-decoration-none text-dark ml-4">
+          <Link to="/footer" className="text-decoration-none text-dark ml-4">
             Contact
           </Link>
           <Link to="/signin" className="text-decoration-none text-dark ml-4">
