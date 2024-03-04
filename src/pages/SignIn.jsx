@@ -1,8 +1,8 @@
-import {React,useState,useContext} from 'react'
+import {useState,useContext} from 'react'
 import Card from 'react-bootstrap/Card';
 import { Button } from 'react-bootstrap';
 import { Link, useNavigate } from 'react-router-dom';
-import PostContext from "../context/PostContext"
+// import PostContext from "../context/PostContext"
 import toast from 'react-hot-toast';
 import img1 from "../assets/images/Section 1.png"
 

@@ -1,8 +1,8 @@
-import React from 'react'
-import img1 from "../assets/images/Group 366.png"
+// import React from 'react'
+// import img1 from "../assets/images/Group 366.png"
 import img2 from "../assets/images/Ellipse 1.png"
 import img3 from "../assets/images/Rectangle 9.png"
-import Card from 'react-bootstrap/Card';
+// import Card from 'react-bootstrap/Card';
 import img4 from "../assets/images/Rectangle 137.png"
 import img5 from "../assets/images/Group 399.png"
 

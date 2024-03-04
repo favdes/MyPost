@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import img1 from '../assets/images/Section 1.png'
 import Card from 'react-bootstrap/Card';
 import img2 from '../assets/images/Join Postit. (1).png'

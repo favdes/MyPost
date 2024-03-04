@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 // import img1 from '../assets/images/Group 366.png'
 import Card from 'react-bootstrap/Card';
 import Container from "react-bootstrap/Container";
@@ -30,10 +30,10 @@ const CreateStory = () => {
   const handlePost = async (e) => {
     e.preventDefault()
     try {
-      const fetchData = await fetch("http://localhost:4343/api/posts", {
+      const fetchData = await fetch("https://postit-backend-ifjp.onrender.com/api/posts", {
         method: "POST",
         headers:{
-            Authorization:Bearer `${token}`,
+            Authorization: Bearer `${token}`,
             "Content-Type":"application/json"
         },
         body: JSON.stringify(post),

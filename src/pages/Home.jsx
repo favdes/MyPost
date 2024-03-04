@@ -1,18 +1,18 @@
-import React from 'react'
+// import React from 'react'
 import Card from 'react-bootstrap/Card';
 import img1 from '../assets/images/Rectangle 3.png'
-import Button from 'react-bootstrap/Button';
+// import Button from 'react-bootstrap/Button';
 import img3 from '../assets/images/Group 405.png'
 import img5 from '../assets/images/Group 7.png'
 import img4 from '../assets/images/Group 6 (1).png'
 import img6 from '../assets/images/Group 8.png'
 import img7 from '../assets/images/Postit 1.png'
 import img8 from '../assets/images/Group 1 (1).png'
-import img9 from '../assets/images/Group 58.png'
-import img11 from '../assets/images/Group 62.png'
-import img10 from '../assets/images/Group 61.png'
-import img12 from '../assets/images/Group 52.png'
-import img13 from '../assets/images/About Postit..png'
+// import img9 from '../assets/images/Group 58.png'
+// import img11 from '../assets/images/Group 62.png'
+// import img10 from '../assets/images/Group 61.png'
+// import img12 from '../assets/images/Group 52.png'
+// import img13 from '../assets/images/About Postit..png'
 import img2 from '../assets/images/Lorem ipsum dolor sit ameetur adipiscing elit. Coctetur egestas massa velit aliquam. Molestim bibendum hnt ipsum orci, platea aliquam id ut..png'
 import Container from 'react-bootstrap/esm/Container';
 // import { dataFooter } from '../../FooterDb';

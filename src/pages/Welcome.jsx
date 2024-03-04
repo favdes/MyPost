@@ -1,6 +1,6 @@
-import React from "react";
+// import React from "react";
 import { Link } from "react-router-dom";
-import Card from "react-bootstrap/Card";
+// import Card from "react-bootstrap/Card";
 import img3 from "../assets/images/unsplash_Z2bJeJQRbW0.png";
 import { Button } from "react-bootstrap";
 import "./styles/Welcome.css";

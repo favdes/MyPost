@@ -34,7 +34,7 @@ const Stories = () => {
           <div className="w-100">
             <div className="w-75 m-auto">
               <h1 className=" mt-5">
-                You've Gotten a Story, Post
+                You have Gotten a Story, Post
                 <span className="text-primary">it</span>.
               </h1>
               <p className="">
