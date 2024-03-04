@@ -33,7 +33,7 @@ const CreateStory = () => {
       const fetchData = await fetch("https://postit-backend-ifjp.onrender.com/api/posts", {
         method: "POST",
         headers:{
-            Authorization: Bearer `${token}`,
+            Authorization: `Bearer ${token}`,
             "Content-Type":"application/json"
         },
         body: JSON.stringify(post),
