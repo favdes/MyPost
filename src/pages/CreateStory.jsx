@@ -1,5 +1,5 @@
-// import React from 'react'
-// import img1 from '../assets/images/Group 366.png'
+
+
 import Card from 'react-bootstrap/Card';
 import Container from "react-bootstrap/Container";
 import img2 from '../assets/images/edit.png'
